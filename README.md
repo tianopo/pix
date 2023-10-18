@@ -28,4 +28,30 @@ Utilizamos Docker para que todos os serviços que utilizaremos fiquem disponíve
 - Confluent control center
 - ZooKeeper
 
- 
+### Arquitetura
+
+project/
+├── application/ = regra de aplicação
+│   ├── usecase/ = 
+│   │
+│   │
+│   │
+│
+├── domain/ = Regra de negócios
+│   ├── model/
+│   │
+│   │
+│   │
+│
+├── infrastructure/ = Conexão para persistência de dados 
+│   ├── db/
+│   │
+│   │
+│   │
+│
+│   ├── repository/
+│   │
+│   │
+│   │
+│
+├── ...
