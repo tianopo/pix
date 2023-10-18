@@ -2,7 +2,7 @@
 
 Participe: https://imersao.fullcycle.com.br
 
-## Microsserviço CodePix
+## Microsserviço Simulador de Pix
 
 Esse microsserviço tem o objetivo de ser um hub de transações entre os bancos que simularemos durante o projeto.
 
